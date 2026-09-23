@@ -1,0 +1,6 @@
+# Local tooling, not part of the public profile repo
+tools/
+
+# Never commit credentials
+.env
+**/.env
